@@ -1,0 +1,197 @@
+.headdiv {
+    display: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+.hddiv2 {
+    display: flex;
+    align-items: center;
+}
+
+.hddiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(42, 37, 75);
+}
+
+.hddiv3 {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 410px;
+}
+
+.hddiv2 .fa-solid.fa-truck-fast {
+    position: relative;
+    left: -13px;
+}
+
+.head2div {
+    display: none;
+}
+
+.hd2div3 {
+    color: rgb(114, 110, 141);
+}
+
+.hd2div3 ul {
+    list-style: none;
+    display: flex;
+}
+
+.hd2div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hd2div2 h1 {
+    font-size: 27px;
+}
+
+.hd2div3 li {
+    margin-left: 35px;
+}
+
+.hd2div4 i {
+    margin-right: 15px;
+}
+
+.headdiv2 {
+    display: none;
+}
+
+.hdiv3 {
+    display: flex;
+    align-items: center;
+}
+
+.hdiv2 h1 {
+    color: rgb(34, 32, 46);
+    font-size: 30px;
+}
+
+.hdiv3 ul {
+    display: flex;
+    list-style: none;
+}
+
+.hdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 28px;
+    margin-right: 33px;
+    font-size: 20px;
+}
+
+.fa-solid.fa-magnifying-glass {
+    margin-left: 47px;
+}
+
+.fa-solid.fa-cart-shopping {
+    margin-left: 16px;
+}
+
+.fa-regular.fa-user {
+    margin-left: 16px;
+}
+
+.hdiv3 li {
+    margin-left: 32px;
+    color: rgb(114, 110, 141);
+}
+
+.headdiv5 ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.headdiv5 li {
+    margin-left: 23px;
+    color: rgb(114, 110, 141);
+}
+
+.headdiv5 {
+    background-color: rgb(249, 249, 249);
+    padding: 7px;
+}
+
+.maindiv {
+    display: none;
+}
+
+.mdiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 24px;
+    color: rgb(42, 37, 75);
+}
+
+.main2div {
+    display: none;
+}
+
+.m2di {
+    display: flex;
+}
+
+.im1 {
+    margin-left: 63px;
+}
+
+.m2div0 {
+    position: relative;
+    left: 25px;
+}
+
+.m2div {
+    margin-top: 60px;
+}
+
+.m2div1 button {
+    margin-top: 142px;
+    padding: 20px;
+    border: 0px;
+    width: 26%;
+}
+
+.m2divo {
+    display: flex;
+} 
+
+.im2 {
+    width: 88%;
+    margin-top: -5px;
+    margin-left: -2px;
+}
+
+.m2div3 h2 {
+    margin-top: 72px;
+}
+
+.m2div0 h2 {
+    color: rgb(42, 37, 75);
+}
+
+.m2div0 p {
+    color: rgb(80, 89, 119);
+}
+
+.m2div3 h2 {
+    color: rgb(42, 37, 75);
+}
+
+.m2div3 p {
+    color: rgb(80, 89, 119);
+}

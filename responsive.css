@@ -1,0 +1,153 @@
+@media screen and (max-width: 430px) {
+    .headdiv {
+        display: flex;
+        font-size: 18px;
+        align-items: center;
+        background-color: rgb(42, 37, 75);
+        color: white;
+    }
+
+    .headdiv p {
+        margin-left: 21px;
+        color: white;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    .fa-solid.fa-xmark {
+        margin-right: 10px;
+    }
+
+    .fa-solid.fa-truck-fast {
+        margin-left: 11px;
+    }
+
+    .hddiv {
+        display: none;
+    }
+
+    .head2div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .head2div2 h1 {
+        font-size: 33px;
+        margin-left: 12px;
+    }
+
+    .head2div3 i {
+        margin-left: 16px;
+    }
+
+    .head2div3 {
+        margin-right: 19px;
+    }
+
+    .hd2div {
+        display: none;
+    }
+
+    .headdiv2 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .headdiv3 h1 {
+        font-size: 25px;
+    }
+
+    .hdiv {
+        display: none;
+    }
+
+    .headdiv5 {
+        display: none;
+    }
+
+    .maindiv h2 {
+        font-size: 32px;
+        margin-left: 21px;
+        color: rgb(42, 37, 75);
+    }
+
+    .mdiv {
+        display: none;
+    }
+
+    .maindiv {
+        display: block;
+    }
+
+    .main2div1 {
+        color;
+        rgb(249, 249, 249);
+    }
+
+    .main2div0 h2 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main2div0 p {
+        color: rgb(80, 89, 119);
+    }
+
+    .main2div0 {
+        margin-top: 75px;
+        margin-left: 8px;
+    }
+
+    .main2div1 button {
+        color: rgb(42, 37, 75);
+        width: 100%;
+        padding: 12px;
+        border: 0px;
+        font-size: 16px;
+        background-color: rgb(249, 249, 249);
+    }
+
+    .main2div2 {
+        margin-top: 38px;
+    }
+
+    .image1 {
+        width: 100%;
+        margin-top: 32px;
+    }
+
+    .image2 {
+        width: 100%;
+        margin-top: -5px;
+    }
+
+    .main2div3 h2 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main2div3 p {
+        color: rgb(80, 89, 119);
+    }
+
+    .main2div3 {
+        margin-left: 10px;
+    }
+
+    .main2div1 button {
+        margin-top: 20px;
+    }
+
+    .m2div {
+        display: none;
+    }
+
+    .main2div {
+        display: block;
+    }
+}
