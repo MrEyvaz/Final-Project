@@ -150,4 +150,317 @@
     .main2div {
         display: block;
     }
+
+    .main3div {
+        margin-top: 86px;
+        margin-left: 27px;
+    }
+
+    .main3div1 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-truck-fast {
+        font-size: 20px;
+        margin-left: -1px;
+    }
+
+    .main3div2 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-square-check {
+        font-size: 20px;
+    }
+
+    .main3div3 {
+        margin-top: 40px;
+    }
+
+    .fa-regular.fa-credit-card {
+        font-size: 20px;
+    }
+
+    .main3div4 {
+        margin-top: 40px;
+    }
+
+    .fa-solid.fa-seedling {
+        font-size: 20px;
+    }
+
+    .m3div {
+        display: none;
+    }
+
+    .main3div {
+        display: block;
+    }
+
+    .main3div0 h2 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main3div h3 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main3div p {
+        color: rgb(42, 37, 75);
+    }
+
+    .sec5div img {
+        height: 450px;
+    }
+
+    .sec5div0 {
+        margin-top: -430px;
+    }
+
+    .sec5div1 ::placeholder {
+        color: rgb(42, 37, 75);
+        background-color: rgb(249, 249, 249);
+    }
+
+    .sec5div1 button {
+        background-color: rgb(42, 37, 75);
+        color: white;
+        border: 0px;
+    }
+
+    .sec5div5 input {
+        padding: 11px;
+        width: 208px;
+        border: 0px;
+    }
+
+    .sec5div5 button {
+        padding: 11px;
+        border: 0px;
+    }
+
+    .sec5div5 {
+        display: flex;
+        justify-content: center;
+        margin-top: 53px;
+    }
+
+    .sec5div0 h2 {
+        display: block;
+    }
+
+    .sec5div3 {
+        display: block;
+    }
+
+    .sec5div0 p {
+        display: block;
+    }
+
+    .sec5div2 {
+        display: flex;
+        align-items: center;
+    }
+
+    .sec5div2 h3 {
+        margin-left: 17px;
+    }
+
+    .sec5div3 {
+        display: flex;
+        align-items: center;
+    }
+
+    .sec5div3 h3 {
+        margin-left: 17px;
+    }
+
+    .sec5div4 {
+        display: flex;
+        align-items: center;
+    }
+
+    .sec5div4 h3 {
+        margin-left: 17px;
+    }
+
+    .sec5div6 {
+        display: block;
+    }
+
+    .sec5div {
+        display: block;
+    }
+
+    .sec5div4 {
+        margin-left: 0px;
+    }
+
+    .sec5div3 {
+        margin-left: 0px;
+    }
+
+    .sec5div img {
+        height: 450px;
+        width: 431px;
+    }
+
+    .sec5div1 i {
+        margin-right: 0px;
+    }
+
+    .sd13 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .sd6 li {
+        list-style: none;
+    }
+
+    .sd8 li {
+        margin-left: -36px;
+    }
+
+    .sd9 li {
+        margin-left: -36px;
+    }
+
+    .sd10 li {
+        margin-left: -36px;
+    }
+
+    .sd6 {
+        color: white;
+        background-color: rgb(42, 37, 75);
+        width: 104%;
+        margin-left: -10px;
+        margin-top: 25px;
+        height: 568px;
+    }
+
+    .sd8 {
+        margin-left: 30px;
+    }
+
+    .sd9 {
+        margin-right: 25px;
+    }
+
+    .sd10 {
+        margin-left: 30px;
+    }
+
+    .sd11 {
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .sd12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sd11 input {
+        padding: 12px;
+        border: 0px;
+        background-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .sd11 ::placeholder {
+        color: white;
+    }
+
+    .sd11 button {
+        padding: 12px;
+        border: 0px;
+        background-color: white;
+        color: rgb(42, 37, 75);
+        width: 78px;
+    }
+
+    .sd6 hr {
+        width: 91%;
+        color: rgb(78, 77, 147);
+        margin-top: 18px;
+    }
+
+    .sec7div7 {
+        display: none;
+    }
+
+    .sd6 {
+        display: block;
+    }
+
+    .sec5div5 {
+        position: relative;
+        top: 36px;
+        left: -68px;
+    }
+
+    .sec5div img {
+        margin-left: 0px;
+    }
+
+    .sec5div1 i,
+    h3 {
+        margin-left: 24px;
+    }
+
+    .sec5div0 p {
+        margin-left: 24px;
+    }
+
+    .sec5div0 h2 {
+        margin-left: 24px;
+    }
+
+    .sd7 {
+        margin-top: -28px;
+    }
+
+    .sd6 {
+        height: 618px;
+    }
+
+    .main3div h3 {
+        margin-left: -1px;
+    }
+
+    .main3div0 {
+        margin-left: -9px;
+    }
+
+    .sec5div img {
+        height: 500px;
+        margin-left: 0px;
+    }
+
+    .sec5div0 {
+        position: relative;
+        top: -70px;
+    }
+
+    .sd6 {
+        height: 764px;
+        margin-top: 7px;
+        margin-left: 0px;
+    }
+
+    .sec5div0 {
+        position: relative;
+        top: -79px;
+        left: 20px;
+    }
+
+    .sec5div5 {
+        position: relative;
+        top: 49px;
+        left: -114px;
+    }
+
+   .sd7 li {
+    margin-top: 10px;
+   }
 }

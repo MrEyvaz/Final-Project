@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
+    font-family: "Satoshi";
 }
 
 .hddiv2 {
@@ -171,9 +172,9 @@ body {
 } 
 
 .im2 {
-    width: 88%;
+    width: 103%;
     margin-top: -5px;
-    margin-left: -2px;
+    margin-left: -4px;
 }
 
 .m2div3 h2 {
@@ -194,4 +195,202 @@ body {
 
 .m2div3 p {
     color: rgb(80, 89, 119);
+}
+
+.main3div {
+    display: none;
+}
+
+.m3di {
+    display: flex;
+    color: rgb(42, 37, 75);
+    justify-content: space-around;
+}
+
+.m3div0 {
+    display: flex;
+    justify-content: center;
+    color: rgb(42, 37, 75);
+}
+
+.m3div {
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+.sec5div img {
+    margin-top: 44px;
+    width: 102%;
+    margin-left: -10px;
+    height: 481px;
+}
+
+.sec5div0 {
+    margin-top: -380px;
+}
+
+.sec5div0 h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div6 {
+    display: flex;
+}
+
+.sec5div6 {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div2 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div3 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div4 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div0 p {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div4 {
+    margin-left: 40px;
+}
+
+.sec5div3 {
+    margin-left: 40px;
+}
+
+.sec5div1 i {
+    margin-right: 10px;
+}
+
+.sec5div5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 33px;
+}
+
+.sec5div5 input {
+    padding: 14px;
+    width: 216px;
+    border: 0px;
+}
+
+.sec5div5 button {
+    border: 0px;
+    background-color: rgb(42, 37, 75);
+    color: white;
+    width: 94px;
+}
+
+.sd6 {
+    display: none;
+}
+
+.sec7div10 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec7div7 {
+    background-color: rgb(42, 37, 75);
+}
+
+.sec7div8 {
+    margin-top: 131px;
+}
+
+.sec7div7 {
+    color: white;
+    width: 102%;
+    margin-left: -8px;
+}
+
+.sec7div7 li {
+   list-style: none;
+}
+
+.sec7div14 p {
+    display: flex;
+    justify-content: center;
+}
+
+.sec7div8 li {
+    margin-left: -38px;
+    margin-top: 10px;
+}
+
+.sec7div14 input {
+    padding: 9px;
+    width: 177px;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.sec7div14 ::placeholder {
+    color: white;
+}
+
+.sec7div14 button {
+    padding: 9px;
+    width: 96px;
+    border: 0px;
+    color: rgb(42, 37, 75);
+}
+
+.sec7div15 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sec7div16 i {
+    margin-right: 18px;
+    font-size: 18px;
+}
+
+.sec7div7 hr {
+    width: 92%;
+}
+
+.sec7div15 p {
+    margin-left: -291px;
+}
+
+.sec7div16 {
+    margin-right: -298px;
+}
+
+.sec7div7 {
+    margin-top: -25px;
+}
+
+.sec7div10 {
+    margin-top: 201px;
+}
+
+.sec5div5 {
+    position: relative;
+    top: 89px;
+    left: -285px;
+}
+
+.m2div3 {
+    position: relative;
+    left: 65px;
+}
+
+.hddiv3 i {
+    margin-right: 25px;
 }
