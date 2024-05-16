@@ -463,4 +463,62 @@
    .sd7 li {
     margin-top: 10px;
    }
+   
+   .sec5div1 {
+    display: none;
+   }
+
+   .secc5div1 {
+    display: block;
+   }
+
+   .secc5div2 {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+   }
+
+   .secc5div3 {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+   }
+
+   .secc5div4 {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+   }
+
+   .secc5div5 {
+    display: flex;
+    position: relative;
+    top: 69px;
+    left: -127px;
+   }
+
+   .secc5div5 {
+    width: 87%;
+   }
+
+   .secc5div5 button {
+    padding: 10px;
+    border: 0px;
+    background-color: rgb(42, 37, 75);
+    color: white;
+   }
+
+   .secc5div5 input {
+    border: 0px;
+   }
+
+   .secc5div5 {
+    position: inherit;
+    margin-top: 16px;
+    margin-left: 82px;
+   }
+
+   .sd13 {
+    margin-top: -51px;
+   }
 }
